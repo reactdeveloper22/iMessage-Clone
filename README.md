@@ -5,13 +5,12 @@
   <h1>iMessage Clone</h1>
 
   <p>
-Realtime Chat App (iMessage Clone) with NextJS, GraphQL, NodeJS, MongoDB, Prisma, TypeScript, NextAuth.js, Google Authentication, Chakra UI, (1-1 Messaging, Real Time Messaging, Creating chat conversation, joining chat conversation, Leaving chat conversation)
+Realtime Chat App (iMessage Clone) with NextJS, GraphQL, NodeJS, MongoDB, Prisma, TypeScript, NextAuth.js, Google Authentication, Chakra UI, (1-1 Messaging, Real Time Messaging, Creating chat conversation, Joining chat conversation, Leaving Chat Conversation)
   </p>
   
   
 <!-- Badges -->
 
-<a href="" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
 ![](https://img.shields.io/badge/Maintained-Yes-indigo)
 ![](https://img.shields.io/github/forks/SashenJayathilaka/iMessage-Clone.svg)
 ![](https://img.shields.io/github/stars/SashenJayathilaka/iMessage-Clone.svg)
@@ -54,12 +53,42 @@ Realtime Chat App (iMessage Clone) with NextJS, GraphQL, NodeJS, MongoDB, Prisma
 
 ### :camera: Screenshots
 
+- Google Authentication using Next Auth
+
 <div align="center">
 <a href=""><img width='800' src='./demo/demoOne.gif' alt='image'/></a>
-<a href=""><img width='800' src='./demo/demoTwo.gif' alt='image'/></a>
-<a href=""><img width='800' src='./demo/demoThree.gif' alt='image'/></a>
-<a href=""><img width='800' src='./demo/demoFour.gif' alt='image'/></a>
-<a href=""><img width='800' src='./demo/demoFive.gif' alt='image'/></a>
+</div>
+
+<br />
+
+- Searching & Creating chat conversation
+
+<div align="center">
+  <a href=""><img width='800' src='./demo/demoTwo.gif' alt='image'/></a>
+</div>
+
+<br />
+
+- 1-1 Messaging, Real Time Messaging & joining chat conversation
+
+<div align="center">
+  <a href=""><img width='800' src='./demo/demoThree.gif' alt='image'/></a>
+</div>
+
+<br />
+
+- 1-1 Messaging, Real Time Messaging & joining chat conversation
+
+<div align="center">
+  <a href=""><img width='800' src='./demo/demoThree.gif' alt='image'/></a>
+</div>
+
+<br />
+
+- Leaving chat conversation
+
+<div align="center">
+  <a href=""><img width='800' src='./demo/demoFive.gif' alt='image'/></a>
 </div>
 
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
@@ -165,8 +194,6 @@ In your Next.js project, install Chakra UI by running either of the following:
 
 ```bash
 npm i @chakra-ui/react @emotion/react@^11 @emotion/styled@^11 framer-motion@^6
-or
-yarn add @chakra-ui/react @emotion/react@^11 @emotion/styled@^11 framer-motion@^6
 ```
 
 Provider Setup
